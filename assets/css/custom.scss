@@ -6,6 +6,13 @@
 
 .buy {
     position: fixed;
+    z-index: 2;
+    right: 6rem;
+    // top: 1rem;
+    margin-top: 1rem;
+}
+.lang {
+    position: fixed;
     z-index: 1;
     right: 1rem;
     // top: 1rem;
